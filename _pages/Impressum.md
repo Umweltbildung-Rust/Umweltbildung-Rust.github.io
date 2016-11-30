@@ -1,11 +1,9 @@
 ---
 permalink: /Impressum/
 title: "Impressum"
+
 ---
 
-
-Impressum
-=========
 
 Angaben gemäß § 5 TMG:
 ----------------------
@@ -19,7 +17,7 @@ Kontakt:
 --------
 
   ---------- --------------------------
-  Telefon:   01755452921
+  Telefon:   01755452921\
   E-Mail:    catherinarust@hotmail.de
   ---------- --------------------------
 
