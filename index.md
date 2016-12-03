@@ -1,0 +1,6 @@
+---
+layout: splash
+header:
+  image: /assets/images/20160612_113231-01.jpeg
+author_profile: true
+---
