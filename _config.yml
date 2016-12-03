@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Catherina Rust"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Umweltpädagogin, zertifizierte Waldpädagogin"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Umweltpädagogin, zertifizierte Waldpädagogin, Pilzcoach, Dipl. Forstingenieur"
   location         : "Göttingen"
   email            :
   uri              :
