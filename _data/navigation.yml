@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Angebote"
+    url: /Angebote/
   - title: "Impressum"
     url: /Impressum/
   - title: "Posts"
