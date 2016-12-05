@@ -8,6 +8,10 @@ title: "Angebote"
 
 Programme zu Wald und Landschwirtschaft, abgestimmt auf den Lehrplan
 
+## Für Lehrer/-innen und Erzieher/-innen
+
+Fortbildungen zu Veranstaltungen im Wald
+
 ## Für Gruppen
 
 - Wilde Küche am Lagerfeuer
