@@ -14,4 +14,5 @@ Wilde Küche am Lagerfeuer
 
 # Für Familien
 
-Geburtstagsfeiern einmal anders, mit Feuermachen, Schatzsuche und mehr.
+Geburtstagsfeiern einmal anders, mit Feuermachen, Schatzsuche und
+mehr.
