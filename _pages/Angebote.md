@@ -6,7 +6,7 @@ title: "Angebote"
 
 ## Für Kindergärten und Schulen
 
-Programme zu Wald und Lanschwirtschaft, abgestimmt auf den Lehrplan
+Programme zu Wald und Landschwirtschaft, abgestimmt auf den Lehrplan
 
 ## Für Gruppen
 
