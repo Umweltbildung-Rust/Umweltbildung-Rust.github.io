@@ -4,15 +4,15 @@ title: "Angebote"
 
 ---
 
-# Für Kindergärten und Schulen
+## Für Kindergärten und Schulen
 
 Programme zu Wald und Lanschwirtschaft, abgestimmt auf den Lehrplan
 
-# Für Gruppen
+## Für Gruppen
 
 Wilde Küche am Lagerfeuer
 
-# Für Familien
+## Für Familien
 
 Geburtstagsfeiern einmal anders, mit Feuermachen, Schatzsuche und
 mehr.
