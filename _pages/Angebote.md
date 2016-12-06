@@ -19,5 +19,5 @@ Fortbildungen zu Veranstaltungen im Wald
 
 ## Für Familien
 
-Geburtstagsfeiern einmal anders, mit Feuermachen, Schnitzen, Schatzsuche und
+Geburtstagsfeiern einmal anders, mit Feuermachen, Schnitzen und
 mehr.

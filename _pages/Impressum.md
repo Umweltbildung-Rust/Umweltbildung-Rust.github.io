@@ -8,18 +8,21 @@ title: "Impressum"
 Angaben gemäß § 5 TMG:
 ----------------------
 
-Catherina Rust\
-Umweltbildung Rust\
-Ehrengard-Schramm-Weg 12\
+Catherina Rust
+
+Umweltbildung Rust
+
+Ehrengard-Schramm-Weg 12
+
 37085 Göttingen
 
 Kontakt:
 --------
 
-  ---------- --------------------------
-  Telefon:   01755452921\
-  E-Mail:    catherinarust@hotmail.de
-  ---------- --------------------------
+Telefon:   01755452921
+
+E-Mail:    catherinarust@hotmail.de
+
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 ----------------------------------------------------
