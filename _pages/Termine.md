@@ -1,3 +1,9 @@
+---
+permalink: /Termine/
+title: "Termine"
+
+---
+
 # Tiere und Bäume im Winter
 ## Kleiner Spaziergang für Familien mit abschließendem Lagerfeuer
 Samstag, 18.02.2017 14.00-17.00 Uhr
